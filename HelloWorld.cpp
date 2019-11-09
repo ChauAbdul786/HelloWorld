@@ -9,5 +9,7 @@ int main(){
     
     cout << "Made a change through branch1." << endl;
 
+    cout << "Example change." << endl;
+
     return 0; 
 }
